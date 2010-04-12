@@ -16,14 +16,16 @@ getData(name = NULL)
   If \code{name} is \code{NULL} for \code{getData}, then a character
   vector is returned (invisibly) containing the names of all the available data
   objects.  Current data objects are
-  \item{APWdata}{a list of air pollution and weather data for all 204
-    U.S. counties.}
-  \item{siteList}{character vector containing 5-digit FIPS codes for all
-    counties.}
-  \item{estimates.subset}{subset of county-specific log-relative risk
-    estimates from MCAPS study.}
-  \item{estimates.full}{full set of county-specific log-relative risk
-    estimates from MCAPS study.}
+  \describe{
+    \item{APWdata}{a list of air pollution and weather data for all 204
+      U.S. counties.}
+    \item{siteList}{character vector containing 5-digit FIPS codes for all
+      counties.}
+    \item{estimates.subset}{subset of county-specific log-relative risk
+      estimates from MCAPS study.}
+    \item{estimates.full}{full set of county-specific log-relative risk
+      estimates from MCAPS study.}
+  }
 }
 
 \author{Roger D. Peng \email{rpeng@jhsph.edu}}
