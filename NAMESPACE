@@ -2,3 +2,4 @@ export(
        "getData",
        "initMCAPS"
        )
+import(stashR)

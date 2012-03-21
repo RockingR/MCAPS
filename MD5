@@ -1,0 +1,9 @@
+b1acfef2fb3b8365c275d51679b0c083 *DESCRIPTION
+9c3a66063e05e256d56bdd3b8c46216b *NAMESPACE
+1e6a430fb3a863fb29ab55f36ab3183f *R/dbfunctions.R
+9a0ffa149eeb53553199b5fc6ab6aba0 *R/zzz.R
+37461ec87b6af300f0e8b7e1fbd6c4ac *inst/CITATION
+f8180fe0281aafc572cbe58b8dd5e028 *inst/COPYING
+d848ac6746ddd75b88e57901b38c461a *inst/misc-code/makeMCAPSinfo.R
+cb68a2de2fafea5796420bee7cf0329a *man/getData.Rd
+05a0b91d7c72b8d5846d35e94609687b *man/initMCAPS.Rd
